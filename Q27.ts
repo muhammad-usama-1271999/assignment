@@ -1,3 +1,7 @@
+//Question27: alien color#3: convert your if-else chain to handle three colors: green, yellow and red.
+
+
+
 //in this assignment we use if_else and else_if conditions
 import chalk from "chalk"
 //part1

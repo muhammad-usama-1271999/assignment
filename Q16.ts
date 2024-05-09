@@ -1,3 +1,6 @@
+//question 16: more guests: you've found a bigger dinner table, so there's room for more guests.
+
+
 let guests:string []= ["Mazahir", "Umer", "Hassam"];
 
 console.log("Great nes for all friends! I found bigger dinner table. ")

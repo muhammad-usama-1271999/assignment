@@ -1,4 +1,4 @@
-//question 42
+//question 42: great magicians: add "the great" to magicians names.
 let magicians = ["alice", "david", "chris"];
 function show_magicians(magicians) {
     magicians.forEach((magician) => {

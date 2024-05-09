@@ -1,3 +1,4 @@
+//question44: sandwiches: summarize sandwich order with varying ingredients.
 function make_sandwich(...items) {
     console.log(`making a sandwich with: ${items.join(", ")}.`);
 }

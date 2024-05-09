@@ -1,3 +1,4 @@
+//question38:cities: describing cities with a function.
 function describe_city(city, country = "Pakistan") {
     console.log(`The ${city} city is in ${country}`);
 }

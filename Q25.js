@@ -1,3 +1,5 @@
+//question 25: alien color#1: imagine an alien was just shot down in a game .
+//assign 'green', 'yellow' and 'red' to a variable called ${alien_color}.
 //in this assignment we use if condition
 //this part is run in console because its correct statement
 let alien_color = "yellow";

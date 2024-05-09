@@ -1,3 +1,4 @@
+//question30: hello admin: great users differently, specially 'admin'.
 let userName = ["admin", "user1", "user2", "user3", "user4"];
 userName.forEach(userName => {
     if (userName === "admin") {

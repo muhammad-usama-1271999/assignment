@@ -1,3 +1,7 @@
+//question23: conditional test: write a series conditional tests. predict the result of each test.
+
+
+
 let car = "civic";
 
 

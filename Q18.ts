@@ -1,3 +1,6 @@
+//question 18: seeing the world: think of at least five place you'd like to visit
+
+
 let places: string[] = ["saudi arab", "iran", "pakistan", "china", "qatar"];
 
 console.log("Original order: ", places);

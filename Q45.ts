@@ -1,3 +1,7 @@
+//question45: cars:create detailed car object with flexible properties.
+
+
+
 function make_car(manufacturer: string, model: string, ...options:[string, any][]):object{
     let car:{
         [key : string]:any

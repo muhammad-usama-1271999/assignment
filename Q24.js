@@ -1,3 +1,4 @@
+//question 24: more conditional tests: expand your conditional tests to cover a wider range of comparisons.
 //equality with string
 console.log("testing equality with string");
 console.log("apple" == "apple"); //True

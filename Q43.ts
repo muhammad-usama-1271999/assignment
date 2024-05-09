@@ -1,4 +1,4 @@
-
+//question 43: unchanged magicians: preserve the original magician names while create new "great" list.
 
 let magicians : string[] = ["alice", "david", "chris"];
 

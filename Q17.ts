@@ -1,3 +1,7 @@
+//question 17: shrinking guest list: unfortunately, your new table won't arrive in time, and you can only invite two guests.
+
+
+
 let guests  = ["Fahad", "Mazahir", "Umer", "salman", "Hassam", "Awais" ];
 console.log(` Sorry friends! unfortunately, I can invite tow friends for dinner`);
 

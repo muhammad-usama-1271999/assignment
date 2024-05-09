@@ -1,3 +1,7 @@
+//question40: album: create objects for music albums.
+
+
+
 function make_album(artist:string, title: string, tracks?:number):any{
     let album : {
         artist:string,

@@ -1,3 +1,7 @@
+// Question26: alien color#2: choose a color for an alien, then write an if-else chain.
+
+
+
 //In this assignment we use if_else condition
 //this part run in if condition
 let alien_color = "red"

@@ -1,3 +1,4 @@
+//question28: stages of human life: determine of person's life stage with if-else chain.
 //this is the age periods of human life
 import inquirer from "inquirer";
 let userInput = await inquirer.prompt([

@@ -1,3 +1,4 @@
+//Question 3: Name cases: store a person's name in a variable, and then print that person's name in lowerCase, upperCase and titleCase.
 let name = "muhammad Usama ";
 console.log(name.toLowerCase()); //for all letters show small letters 
 console.log(name.toUpperCase()); //for all letters show big letters

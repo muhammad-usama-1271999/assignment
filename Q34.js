@@ -1,3 +1,4 @@
+//question34: pizza: share your favorite pizzas and express your love for them.
 let pizzas = ["pepperoni", "margherita", "hawaiian"];
 for (let i = 0; i < pizzas.length; i++) {
     console.log(`I like ${pizzas[i]} pizza.`);

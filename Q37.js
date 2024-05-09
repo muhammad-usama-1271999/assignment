@@ -1,3 +1,4 @@
+//question37: large t-shirt: default values in make_shirt().
 function make_shirt(size = "medium", message = "I love you") {
     console.log(`Making a ${size} t-shirt with the message "${message}" printed on it`);
 }

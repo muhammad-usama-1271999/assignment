@@ -1,3 +1,4 @@
+//question23: conditional test: write a series conditional tests. predict the result of each test.
 let car = "civic";
 console.log("Is car == 'civic'? I predict true.");
 console.log(car === "civic");

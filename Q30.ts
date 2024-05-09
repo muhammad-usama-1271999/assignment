@@ -1,3 +1,7 @@
+//question30: hello admin: great users differently, specially 'admin'.
+
+
+
 let userName: string[] = ["admin", "user1", "user2", "user3", "user4"]
 
 

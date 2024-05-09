@@ -1,3 +1,5 @@
+//question 21: think of something you could store in a typescript objects. 
+//write a program that creates objects containing these items.
 let person = {
     name: "Usama",
     age: 25,

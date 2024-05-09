@@ -1,3 +1,7 @@
+//question32: checking usernames: ensure uniqueness in usernames.
+
+
+
 let currentUsers = ['user1','user4', 'user5', 'admin'];
 let newUsers = ['user4', 'user8','admin', 'user3'];
 

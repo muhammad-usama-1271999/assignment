@@ -1,3 +1,4 @@
+//question 43: unchanged magicians: preserve the original magician names while create new "great" list.
 let magicians = ["alice", "david", "chris"];
 function make_great(magicians) {
     let greatMagicians = [];
